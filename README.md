@@ -122,17 +122,3 @@ This project is for educational purposes under VIT academic guidelines.
 
 
 ---
-
----
-
-### ✔ What This README Solves in Rubric
-
-| Guideline Requirement | Status |
-|---------------------|--------|
-| Project title | ✔ Done |
-| Overview | ✔ Done |
-| Features | ✔ Done |
-| Tools/Tech used | ✔ Done |
-| Steps to run | ✔ Done |
-| Testing instructions | ✔ Done |
-| Screenshots section | ✔ Prepared & expected |
