@@ -55,7 +55,7 @@ This structure ensures separation of concerns and scalability.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/anshul-bit/Library_Management_Project.git
 
 2. Navigate to the project folder:
 
